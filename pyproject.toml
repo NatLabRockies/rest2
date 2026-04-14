@@ -169,4 +169,3 @@ packages = ["rest2"]
 [tool.setuptools_scm]
 version_file = "rest2/_version.py"
 version_scheme = "guess-next-dev"
-fallback_version = "1.0.3"
