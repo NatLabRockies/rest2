@@ -4,7 +4,7 @@ Welcome to the REST2 model!
 
 REST2 is the High-performance solar radiation model for cloudless-sky
 irradiance, illuminance, and photosynthetically active radiation.
-NREL Software record: SWR-23-96
+NLR Software record: SWR-23-96
 
 References
 ----------
